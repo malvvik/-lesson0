@@ -1,0 +1,6 @@
+print("Hello world")
+print(len("Hellopeople"))
+print(5+8, 8-5)
+print((6+8+13)//3)
+print("Понедельник"", ""Вторник")
+print(((((2*5)+(2*6)))**3)/2)
